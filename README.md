@@ -16,7 +16,7 @@ You can download the library from the [releases](https://github.com/theryan722/O
 ###Examples
 Here is an example of the UpdateString() method:
 ```c#
-String example = "The {noun} wanted to {verb} with the {adjective} toy.
+String example = "The {noun} wanted to {verb} with the {adjective} toy."
 example = Ozone.Wordy.Core.UpdateString(example);
 ```
 This could output:
