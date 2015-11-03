@@ -8,7 +8,7 @@
 Procedural Text and Word Generator
 
 ###What is it?
-Ozone.Wordy is a procedural word and text generator for .Net
+Ozone.Wordy is a procedural word and text generator for .Net. You can generate nouns, verbs, adverbs, compound-words, prepositions and more!
 
 ###Binaries
 You can download the library from the [releases](https://github.com/theryan722/Ozone.Wordy/releases/) page.
