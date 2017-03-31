@@ -7,13 +7,13 @@
 
 Procedural Text and Word Generator
 
-###What is it?
+### What is it?
 Ozone.Wordy is a procedural word and text generator for .Net. You can generate nouns, verbs, adverbs, compound-words, prepositions and more!
 
-###Binaries
+### Binaries
 You can download the library from the [releases](https://github.com/theryan722/Ozone.Wordy/releases/) page.
 
-###Examples
+### Examples
 Here is an example of the UpdateString() method:
 ```c#
 String example = "The {noun} wanted to {verb} with the {adjective} toy."
@@ -30,10 +30,10 @@ String example1 = Ozone.Wordy.Core.GetRandom(Adverb);
 String example2 = Ozone.Wordy.Core.GetRandom(Preposition);
 ```
 
-###Future Plans
+### Future Plans
 I have plans to implement more specific text generation, i.e. being able to specify an animal, or building, or location, etc.
 
-###License
+### License
 Copyright 2015 Ryan O'Day
 
 Licensed under the Apache License, Version 2.0 (the "License");
